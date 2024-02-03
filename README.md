@@ -6,11 +6,30 @@ This project focuses on cleaning the dataset by performing a series of SQL queri
 The data contains housing information in Nashville.
 
 ## Database
-
+- UniqueID
+- ParcelID
+- LandUse
+- PropertyAddress
+- SaleDate
+- LegalReference
+- SoldAsVacant
+- OwnerName
+- OwnerAddress
+- Acreage
+- TaxDistrict
+- LandValue
+- BuildingValue
+- TotalValue
+- YearBuilt
+- Bedrooms
+- FullBath
+- HalfBath
 
 ## Getting Started
+
 ### Prerequisites
 - Microsoft SQL Server Management Studio
+- 
 ### Installing
 - Dataset: download from [AlexTheAnalyst]([https://ourworldindata.org/covid-deaths](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)), this file is in Excel format. Data is imported to SQL Server for the main work.
 
