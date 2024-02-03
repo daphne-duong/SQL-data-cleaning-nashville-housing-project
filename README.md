@@ -2,7 +2,11 @@
 
 ## Description
 
-This project focuses on cleaning the dataset by performing a series of SQL queries on Microsoft SQL Server Management Studio. The intention of this personal project is to showcase SQL skills.
+This project focuses on cleaning the dataset by performing a series of SQL queries on Microsoft SQL Server Management Studio. The intention of this personal project is to practice my SQL skills and show knowledge of using more complicated queries. 
+The data contains housing information in Nashville.
+
+## Database
+
 
 ## Getting Started
 ### Prerequisites
